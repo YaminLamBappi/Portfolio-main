@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Received!</title>
+    <style>
+        /* Your website's existing styles here */
+        /* Add custom styles specific to the thank you page below */
+        body {
+            background-color: #f5f5f5;
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .thank-you-message {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            color: #777;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .emoji {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        /* Optional animation using CSS transforms */
+        .emoji.dancing {
+            animation: dance 2s ease-in-out infinite;
+        }
+
+        @keyframes dance {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            50% {
+                transform: rotate(10deg);
+            }
+
+            100% {
+                transform: rotate(0deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="thank-you-message">
+        <span class="emoji dancing"></span>
+        <h1>Message Received!</h1>
+        <p>Your message has been sent successfully. I'll be in touch as soon as possible.</p>
+        <p>In the meantime, feel free to explore my website or follow me on social media for more updates.</p>
+    </div>
+</body>
+
+</html>
