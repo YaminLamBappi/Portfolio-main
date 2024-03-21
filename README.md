@@ -13,8 +13,8 @@ Key Features:
     About Me: Learn more about me through the "About Me" section, providing insights into my background, interests, and passion for coding.
 
     Contact Information: Connect with me easily through the provided contact information, encouraging networking and collaboration opportunities.
-![GitHub](https://github.com/YaminLamBappi/MyPortfolio/blob/main/static/images/pic1.png)
-![GitHub](https://github.com/YaminLamBappi/MyPortfolio/blob/main/static/images/pic2.png)
+![Link](https://yaminlambappi.up.railway.app/)
+
 
 
 ## Run these Commads
