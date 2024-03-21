@@ -13,7 +13,6 @@ Key Features:
     About Me: Learn more about me through the "About Me" section, providing insights into my background, interests, and passion for coding.
 
     Contact Information: Connect with me easily through the provided contact information, encouraging networking and collaboration opportunities.
-![Link](https://yaminlambappi.up.railway.app/)
 
 
 
